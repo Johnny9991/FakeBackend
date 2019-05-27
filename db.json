@@ -1,0 +1,25 @@
+{
+  "patients": [
+    {
+      "id": 1, "name": "Albert", "assignedTo": null, "isCompliant": true, "requiredAttention": false,
+      "requiresReview": false, "monitoringMode": null, "monitoringStartDate": "2019-05-27T06:38:33+0000",
+      "monitoringEndDate": "2019-06-27T06:38:33+0000", "monitoringProfile": null, "externalSensors": null,
+      "notificationParties": null
+    },
+    {
+      "id": 2, "name": "Bob", "assignedTo": null, "isCompliant": true, "requiredAttention": false,
+      "requiresReview": false, "monitoringMode": null, "monitoringStartDate": "2019-05-27T06:38:33+0000",
+      "monitoringEndDate": "2019-06-27T06:38:33+0000", "monitoringProfile": null, "externalSensors": null,
+      "notificationParties": null
+    },
+    {
+      "id": 3, "name": "Charlie", "assignedTo": null, "isCompliant": true, "requiredAttention": false,
+      "requiresReview": false, "monitoringMode": null, "monitoringStartDate": "2019-05-27T06:38:33+0000",
+      "monitoringEndDate": "2019-06-27T06:38:33+0000", "monitoringProfile": null, "externalSensors": null,
+      "notificationParties": null
+    }
+  ],
+  "profile": {
+    "name": "JB"
+  }
+}
